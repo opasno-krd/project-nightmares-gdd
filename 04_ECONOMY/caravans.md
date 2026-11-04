@@ -31,6 +31,14 @@
 ### 6. Еженедельный Налог Знати (Anti-Hoarding)
 Чтобы предотвратить монополизацию ресурсов и экономический застой, в каждом клановом поселении действует правило: **раз в неделю 50% накопленных на складах сырых ресурсов изымается в виде налога в пользу Короны/Знати**. Клан не может бесконечно копить ресурсы; ему приходится активно перерабатывать их или продавать, поддерживая живую экономику.
 
+### 7. NPC-Наставники и Диегетическое Обучение (Diegetic Tutorials)
+В хардкорной игре без маркеров и всплывающих подсказок новичкам сложно освоить продвинутые механики (например, 7-секундный пре-каст хила или тайминги уворота). Мы решаем это через **контекстное обучение NPC**.
+
+*   **Механика:** NPC-водители караванов и старшие охранники — это высокоуровневые «боты» с идеальным таймингом. 
+*   **Сценарий обучения:** При въезде в опасную зону NPC голосом объявляет: *"Входим в красную зону! Готовьтесь к отражению атаки, накладываю Печать Предков!"*.
+*   **Визуализация:** Игрок-новичок видит, как NPC кастует долгое заклинание (7 секунд), получает визуальный и звуковой фидбек, и успешно баффает караван перед нападением бандитов.
+*   **Результат:** Новичок **наглядно** понимает ценность, риск и тайминг продвинутых механик, наблюдая за ними в реальной боевой ситуации, без необходимости читать скучные туториалы. Охрана каравана становится не только источником золота, но и «живой школой мастерства».
+
 ---
 
 ## 🇬🇧 English
@@ -63,3 +71,11 @@ Attacking a caravan has macro-level consequences.
 
 ### 6. Weekly Nobility Tax (Anti-Hoarding)
 To prevent resource monopolization and economic stagnation, every clan settlement operates under a rule: **once a week, 50% of accumulated raw resources in storage is seized as a tax by the Crown/Nobility**. A clan cannot infinitely hoard resources; they are forced to actively process or sell them, keeping the economy alive.
+
+### 7. NPC Mentors and Diegetic Tutorials
+In a hardcore game devoid of map markers and pop-up tooltips, it is difficult for newcomers to master advanced mechanics (such as a 7-second heal pre-cast or dodge timings). We solve this through **contextual NPC learning**.
+
+*   **Mechanic:** NPC caravan drivers and senior guards act as high-level "bots" with perfect timing and execution. 
+*   **Training Scenario:** Upon entering a dangerous zone, the NPC announces via voice line: *"Entering the red zone! Prepare to repel the attack, casting the Seal of Ancestors!"*
+*   **Visualization:** The novice player watches the NPC cast a long spell (7 seconds), observes the visual and audio feedback, and sees the caravan successfully buffed right before the bandit ambush.
+*   **Result:** The novice **intuitively grasps** the value, risk, and timing of advanced mechanics by observing them in a real combat scenario, without the need to read tedious tutorials. Caravan escort duty becomes not just a source of income, but a "live school of mastery".
