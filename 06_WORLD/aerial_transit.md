@@ -31,6 +31,17 @@
     3. **Нанять Клановый Караван** (или попросить помощи у соклановцев с вьючными животными), чтобы безопасно вывезти ресурсы.
 *   *Итог:* Система перемещения напрямую стимулирует социальное взаимодействие и создает органический PvPvE-контент на дорогах.
 
+### 5. Механика Переноса Базы: Аренда Лошади и Сундука (Chest Relocation)
+В мире Project Nightmares не существует "магических сундуков", доступных бесплатно в каждом городе. Личное хранилище — это физический объект.
+
+*   **Проблема:** Игрок хочет перенести свою основную базу лута и крафта в новый, более выгодный регион для фарма.
+*   **Решение:** Игрок должен арендовать специальную вьючную лошадь с закрепленным на ней сундуком у конюха.
+*   **Ограничения и Риски (Meaningful Friction):**
+    1.  **Стоимость:** Аренда стоит значительных денег (Gold Sink), зависящих от расстояния между городами.
+    2.  **Скорость:** Лошадь с груженым сундуком движется медленно, по скорости пешехода.
+    3.  **Уязвимость:** Игрок, ведущий такую лошадь, не может использовать планер или быстро сбежать. Он становится приоритетной и легкой мишенью для ПК-шников или бандитов на дорогах.
+*   **Синергия с социалкой:** Чтобы безопасно перевезти сундук через опасные Дикие Земли, игрок вынужден либо объединяться с соклановцами для эскорта, либо нанимать охрану (см. систему Клановых Караванов). Это превращает рутинный "переезд" в полноценное микро-приключение.
+
 ---
 
 # Aerial Traversal & Ballistics
@@ -65,3 +76,14 @@ This system creates a powerful economic driver:
     2. Bury/stash part of the loot and return for it later.
     3. **Hire a Clan Caravan** (or ask clanmates with pack animals) to safely transport the resources.
 *   *Result:* The traversal system directly stimulates social interaction and creates organic PvPvE content on the roads.
+
+### 5. Base Relocation Mechanics: Horse & Chest Rental
+In the world of Project Nightmares, there are no "magic chests" available for free in every city. Personal storage is a physical object.
+
+*   **Problem:** A player wants to move their main loot and crafting base to a new, more profitable farming region.
+*   **Solution:** The player must rent a special pack horse with an attached chest from a stablemaster.
+*   **Limitations & Risks (Meaningful Friction):**
+    1.  **Cost:** Rental costs a significant amount of gold (Gold Sink), scaling with the distance between cities.
+    2.  **Speed:** A horse carrying a loaded chest moves slowly, at walking pace.
+    3.  **Vulnerability:** A player leading such a horse cannot use a glider or flee quickly. They become a priority and easy target for PKers or bandits on the roads.
+*   **Synergy with Social Systems:** To safely transport a chest across dangerous Wilds, the player is forced to either group up with clanmates for an escort or hire guards (see Clan Caravan system). This turns a routine "relocation" into a full-fledged micro-adventure.
