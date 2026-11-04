@@ -21,6 +21,13 @@
 *   **Правило "Детского дома" (The Orphanage Effect):** Если игрок не оплачивает аренду вовремя, его точка возрождения принудительно переносится в Трущобы. Он просыпается с дебаффом "Истощение" и должен пробиваться обратно в город.
 *   **Покупка жилья:** На высоких уровнях игрок может выкупить комнату навсегда, избавившись от еженедельной платы.
 
+### 3.1. Множественная Аренда и Физическое Присутствие (Multiple Properties & Physical Presence)
+В мире Project Nightmares нет магических порталов в "личный инстанс-домик". Жилье — это физические комнаты в реальных городах мира.
+
+*   **Свобода выбора:** Игрок может арендовать помещения сразу в нескольких локациях. Например, комфортную комнату в Столице (с баффами и безопасностью) и дешевую "койку за шапку сухарей" в приграничной деревне рядом с точкой фарма.
+*   **Экономический смысл (Gold Sink):** Поддержание нескольких точек требует регулярной оплаты аренды. Это создает мощный, постоянный отток золота из экономики, контролируя инфляцию.
+*   **Логистика:** Чтобы воспользоваться вещами из сундука в дальней квартире, игрок должен физически туда добраться. Это создает органичные маршруты перемещения по миру и не дает игроку "запереться" в одной безопасной локации навсегда. Мы не гладим игрока по головке: комфорт стоит денег, а суровый выживальщик всегда выберет риск и дешевизну.
+
 ### 4. Клановая Система: От Койки до Родового Гнезда
 Вступление в клан муссируется не абстрактными бонусами, а **конкретными бытовыми и экономическими преимуществами**. Создание клана стоит **5 000 золотых**.
 
@@ -52,6 +59,13 @@ There is no free rest in the game. Sleeping restores HP/MP and removes fatigue d
 *   **City Room Rental:** Costs 1000g per week. Grants the "Well-Rested" buff (+5% stamina regeneration).
 *   **The "Orphanage" Rule:** If a player fails to pay rent on time, their respawn point is forcibly moved to the Slums. They wake up with an "Exhaustion" debuff and must fight their way back to the city.
 *   **Home Ownership:** At high levels, players can buy a room permanently, eliminating the weekly fee.
+
+### 3.1. Multiple Properties & Physical Presence
+In the world of Project Nightmares, there are no magic portals to a "personal instanced house". Housing consists of physical rooms in real cities across the world.
+
+*   **Player Agency:** A player can rent spaces in multiple locations simultaneously. For example, a comfortable room in the Capital (with buffs and safety) and a cheap "cot for a cap of dry bread" in a border village near a farming spot.
+*   **Economic Purpose (Gold Sink):** Maintaining multiple properties requires regular rent payments. This creates a powerful, continuous gold outflow from the economy, helping to control inflation.
+*   **Logistics:** To access items in a chest in a distant apartment, the player must physically travel there. This creates organic travel routes across the world and prevents players from "locking themselves" in one safe location forever. We don't pat the player on the head: comfort costs money, and a true survivor will always choose risk and frugality.
 
 ### 4. Clan System: From a Cot to a Noble House
 Joining a player clan is promoted through **concrete, practical benefits**. Creating a clan costs **5,000 gold**.
